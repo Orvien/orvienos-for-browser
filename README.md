@@ -78,8 +78,8 @@ orvienos-browser/
 Orvienのビジョンに共感し、フィードバックやアイデアを提供してくださったすべてのユーザーと開発者の皆様。
 
 📄 ライセンス
-このプロジェクトは MIT ライセンスのもとで公開されています。
-詳細は LICENSE をご覧ください。
+このプロジェクトは OrvienLicense v1.0.0のもとで公開されています。
+詳細は orvienlicense-v1.0.0 をご覧ください。
 
 🌐 リンク
 - Orvien 公式サイト　orvien.github.io
@@ -170,8 +170,8 @@ Key Members- Project Lead: Orvien Studio
 - Technical Design & Implementation: Orvien Studio X, Fluxora Studio
 
 Special Thanks
-To all users and developers who resonated with Orvien’s vision and contributed valuable feedback and ideas.📄 LicenseThis project is licensed under the MIT License.
-See the LICENSE file for details.
+To all users and developers who resonated with Orvien’s vision and contributed valuable feedback and ideas.📄 LicenseThis project is licensed under the OrvienLicense v1.0.0.
+See the orvienlicense-v1.0.0 file for details.
 
 🌐 Links
 - Official Website: orvien.github.io
